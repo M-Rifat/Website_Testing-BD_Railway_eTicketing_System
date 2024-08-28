@@ -4,7 +4,7 @@
 - Managed RTM and Executed Test Cases.
 - Documented and Tracked Bugs using JIRA.
 - Conducted Functional Testing, Usability Testing, Adhoc Testing, 
-- Compatibility Testing, GUI Testing, End to End Testing.
+  Compatibility Testing, GUI Testing, End to End Testing.
 - Automation Testing using Selenium and TestNG.
 - Performance Testing using JMeter.
 - --------------------------------------------------------------
