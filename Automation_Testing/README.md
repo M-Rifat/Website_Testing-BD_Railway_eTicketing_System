@@ -9,6 +9,6 @@
 >> <img src="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System/blob/main/Automation_Testing/Screenshots/screenshot1.png" width="80%" height="80%"/>
 
 # emailable Test Report
->> <img src="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System/blob/main/Automation_Testing/Screenshots/screenshot2.jpg" width="80%" height="80%"/>
+>> <img src="https://github.com/M-Rifat/Website_Testing-BD_Railway_eTicketing_System/blob/main/Automation_Testing/Screenshots/Screenshot2.jpg" width="80%" height="80%"/>
 
 
