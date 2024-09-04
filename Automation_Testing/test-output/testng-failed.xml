@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="classes" name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="edge"/>
+  <listeners>
+    <listener class-name="ExtentReportManager"/>
+  </listeners>
+  <test thread-count="2" parallel="classes" name="C:/Users/Lenovo/IdeaProjects/Web_Testing/Automation_Testing(failed)">
+    <classes>
+      <class name="BDRailETicketingTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="trainInfo"/>
+        </methods>
+      </class> <!-- BDRailETicketingTest -->
+    </classes>
+  </test> <!-- C:/Users/Lenovo/IdeaProjects/Web_Testing/Automation_Testing(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
